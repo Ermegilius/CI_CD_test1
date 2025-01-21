@@ -1,0 +1,12 @@
+body {
+    background-color: var(--color-background-light);
+    color: var(--color-text-dark);
+}
+
+.list {
+    background-color: var(--color-background-light);
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}

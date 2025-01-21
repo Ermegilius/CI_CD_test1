@@ -1,0 +1,31 @@
+.header {
+    background-color: var(--color-background-dark);
+    color: var(--color-text-light);
+    border-top-left-radius: var(--border-radius-all);
+    border-top-right-radius: var(--border-radius-all);
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+nav {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.li {
+    list-style-type: none;
+}
