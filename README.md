@@ -4,12 +4,12 @@ This is my study project for several weeks during November-December 2024. The ap
 
 ## Core features
 
-- **Employee List**: Displays a list of all employees.
-- **Employee Card**: Shows detailed information about an employee, including the ability to edit details, delete the card and promote/demote the employee.
-- **Add New Employee**: A form to add new employees to the system.
-- **Delete Employee's card**: Allows users to delete an employee card.
-- **Error Handling**: Displays an error page when a route is not found or something unexpected happened.
-- **Custom Hooks**: Utilizes a custom hook (`useAxios`) for making API requests.
+-   **Employee List**: Displays a list of all employees.
+-   **Employee Card**: Shows detailed information about an employee, including the ability to edit details, delete the card and promote/demote the employee.
+-   **Add New Employee**: A form to add new employees to the system.
+-   **Delete Employee's card**: Allows users to delete an employee card.
+-   **Error Handling**: Displays an error page when a route is not found or something unexpected happened.
+-   **Custom Hooks**: Utilizes a custom hook (`useAxios`) for making API requests.
 
 ## Components and pages
 
@@ -77,12 +77,3 @@ Password: isthebest
 This project helped me understand React components, props, useState and useEffect better. I gained experience with custom hooks and API requests using axios. And also I learned how to deploy a React application on Netlify and Render.
 
 ## Future Improvements
-
-Add detailed validation to the forms.
-Add real authentification.
-Make normal Error page instead of current plug.
-Improve the UI/UX with more styling and responsive design.
-Add more features like sorting and filtering employees.
-Add more tests to ensure the application is robust and reliable.
-HELLO
-Hi
