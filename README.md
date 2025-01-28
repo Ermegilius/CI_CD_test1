@@ -3,7 +3,7 @@
 This is my study project for several weeks during November-December 2024. The application is designed to manage employee information, including adding new employees, editing existing employee details, deleting employee cards, and promoting or demoting personnel.
 
 ## Core features
-
+Making changes
 -   **Employee List**: Displays a list of all employees.
 -   **Employee Card**: Shows detailed information about an employee, including the ability to edit details, delete the card and promote/demote the employee.
 -   **Add New Employee**: A form to add new employees to the system.
